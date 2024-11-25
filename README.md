@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm **Boss** (Komkrit Tungtatigapat), a Computer E
 - 👯 **I’m looking to collaborate on exciting open-source projects and innovative tech ideas.
 - 🤔 **I’m looking for help with:** Advanced AI and machine learning concepts.
 - 📫 **How to reach me:**
-- - **Facebook:** [linkedin.com/in/komkrit](https://www.linkedin.com/in/komkrit-tungtatiyapat)
+- - **Facebook:** [**LinkedIn**](https://www.linkedin.com/in/komkrit-tungtatiyapat)
   - **LinkedIn:** [facebook.com/Komkrit.Boss/](https://www.facebook.com/Komkrit.Boss)
 - 😄 **Pronouns:** He/Him
 - ⚡ **Fun fact:** I enjoy exploring new tech trends and playing strategy game such as Red Alert 2 in my free time!
