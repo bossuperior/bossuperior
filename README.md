@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm **Boss** (Komkrit Tungtatigapat), a Computer E
 ---
 
 ### **Tools or IDEs I Use**
-- **Visual Studio Code**
+- ![VS Code](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg =30x30) **Visual Studio Code**
 - **PyCharm**
 - **MySQL Workbench**
 - **Postman**
