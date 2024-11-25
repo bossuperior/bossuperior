@@ -11,9 +11,11 @@ Welcome to my GitHub profile! I'm **Boss** (Komkrit Tungtatigapat), a Computer E
 - 😄 **Pronouns:** He/Him
 - ⚡ **Fun fact:** I enjoy exploring new tech trends and playing strategy game such as Red Alert 2 in my free time!
 
-##Tools or IDEs
+Tools or IDEs
 
 ---
+
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=bossuperior)
 
 Thanks for visiting my profile! Feel free to check out my repositories and connect with me. 🚀
 
