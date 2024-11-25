@@ -13,17 +13,6 @@ Welcome to my GitHub profile! I'm **Boss** (Komkrit Tungtatigapat), a Computer E
 
 ---
 
-### **Tools or IDEs I Use**
-- ![VS Code](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg =30x30) **Visual Studio Code**
-- **PyCharm**
-- **MySQL Workbench**
-- **Postman**
-- **Git & GitHub**
-- **Jupyter Notebook**
-- **Figma** (for UI/UX designs)
-  
----
-
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=bossuperior)
 
 Thanks for visiting my profile! Feel free to check out my repositories and connect with me. 🚀
