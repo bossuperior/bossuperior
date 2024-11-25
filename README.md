@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm **Boss** (Komkrit Tungtatigapat), a Computer E
 - 😄 **Pronouns:** He/Him
 - ⚡ **Fun fact:** I enjoy exploring new tech trends and playing strategy game such as Red Alert 2 in my free time!
 
-Tools or IDEs
+##Tools or IDEs
 
 ---
 
