@@ -12,6 +12,8 @@ Welcome to my GitHub profile! I'm **Boss** (Komkrit Tungtatigapat), a Computer E
   - ⚡ I enjoy exploring new tech trends and playing strategy game such as Red Alert 2 in my free time!
     
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bossuperior&theme=shadow_blue&layout=compact)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=bossuperior)
