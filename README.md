@@ -9,8 +9,9 @@ Welcome to my GitHub profile! I'm **Boss** (Komkrit Tungtatigapat), a Computer E
   - [Facebook](https://www.facebook.com/Komkrit.Boss)
   - [LinkedIn](https://www.linkedin.com/in/komkrit-tungtatiyapat)
   - komkrit.tungtatiyapat@gmail.com
-- ⚡ I enjoy exploring new tech trends and playing strategy game such as Red Alert 2 in my free time!
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&hide=javascript,css,scss,html&theme=tokyonight)
+  - ⚡ I enjoy exploring new tech trends and playing strategy game such as Red Alert 2 in my free time!
+    
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bossuperior&hide=javascript,css,scss,html&theme=tokyonight)
 ---
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=bossuperior)
