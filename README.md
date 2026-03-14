@@ -1,6 +1,6 @@
 <div align="center">
   <h1>🚀 Komkrit Tungtatigapat (Boss)</h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=Computer+Engineering+Student;AI+%26+Machine+Learning+Enthusiast;IoT+%26+Smart+Innovator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=Computer+Engineering+Student;AI+%26+Machine+Learning;IoT+%26+Smart+Innovator" alt="Typing SVG" />
 </div>
 
 ### 👨‍💻 About Me
