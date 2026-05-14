@@ -25,10 +25,10 @@ Welcome to my GitHub profile! I'm **Boss** (Komkrit Tungtatigapat), a Computer E
 
 ###  GitHub Activity & Stats
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bossuperior&show_icons=true&theme=github_dark&hide_border=false" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bossuperior&theme=github_dark&layout=compact" width="36.5%" />
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bossuperior&theme=github_dark" width="85%" />
