@@ -1,18 +1,16 @@
 <div align="center">
-  <h1>🚀 Komkrit Tungtatigapat (Boss)</h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=Computer+Engineering+Student;AI+%26+Machine+Learning;IoT+%26+Innovator" alt="Typing SVG" />
+  <h1>Komkrit Tungtatigapat (Boss)</h1>
 </div>
 
-### 👨‍💻 About Me
+### About Me
 Welcome to my GitHub profile! I'm **Boss** (Komkrit Tungtatigapat), a Computer Engineering student passionate about coding, data analysis, and building innovative projects. Here's a little bit about me:
-
-- 🌱 I’m currently studying Computer Engineering at PIM.
-- 👯 I’m looking to collaborate on exciting open-source projects and innovative tech ideas.
-- 🤔 I’m looking for help with Advanced AI and machine learning concepts.
+-  I’m currently studying Computer Engineering at PIM.
+-  I’m looking to collaborate on exciting open-source projects and innovative tech ideas.
+-  I’m looking for help with Advanced AI and machine learning concepts.
 
 ---
 
-### 🛠️ Technical Skills
+###  Technical Skills
 
 | Category | Tools & Technologies |
 | :--- | :--- |
@@ -25,7 +23,7 @@ Welcome to my GitHub profile! I'm **Boss** (Komkrit Tungtatigapat), a Computer E
     
 ---
 
-### 📊 GitHub Activity & Stats
+###  GitHub Activity & Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bossuperior&show_icons=true&theme=github_dark&hide_border=false" width="48%" />
@@ -38,7 +36,7 @@ Welcome to my GitHub profile! I'm **Boss** (Komkrit Tungtatigapat), a Computer E
 
 ---
 
-### 📫 Let's Connect!
+###  Let's Connect!
 
 <div align="left">
   <a href="https://www.facebook.com/Komkrit.Boss" target="blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" /></a>
